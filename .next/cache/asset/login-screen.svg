@@ -1,0 +1,87 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 668" width="375" height="668" fill="none">
+  <rect width="375" height="668" fill="#fff"></rect>
+  <g opacity="100%">
+    <text x="87" y="57" font-family="Roboto Mono" font-size="24" fill="#030303" letter-spacing="-0.6" font-weight="normal" font-style="normal">CryptoFunWallet</text>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16" height="16" fill="#030303" x="63" y="40" opacity="100%">
+    <path d="M461.2 128H80c-8.84 0-16-7.16-16-16s7.16-16 16-16h384c8.84 0 16-7.16 16-16 0-26.51-21.49-48-48-48H64C28.65 32 0 60.65 0 96v320c0 35.35 28.65 64 64 64h397.2c28.02 0 50.8-21.53 50.8-48V176c0-26.47-22.78-48-50.8-48zM416 336c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32z"></path>
+  </svg>
+  <g opacity="100%">
+    <text x="32" y="199" font-family="Roboto Mono" font-size="24" fill="#030303" letter-spacing="0" font-weight="normal" font-style="normal">Welcome Back!</text>
+  </g>
+  <g opacity="100%">
+    <text x="32" y="237.5" font-family="Roboto Mono" font-size="14" fill="#030303" letter-spacing="0" font-weight="normal" font-style="normal">Email</text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_00000014)" x="32.4" y="246.4" width="294.2" height="37.2" fill="#e9e9e9" rx="2" stroke="#030303" stroke-width="0.8"></rect>
+    <text x="40.4" y="270.5000003814697" font-family="Roboto Mono" font-size="14" fill="#94a3b8" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan></tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <text x="32" y="315.5" font-family="Roboto Mono" font-size="14" fill="#030303" letter-spacing="0" font-weight="normal" font-style="normal">Password</text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_00000014)" x="32.4" y="324.4" width="294.2" height="37.2" fill="#e9e9e9" rx="2" stroke="#030303" stroke-width="0.8"></rect>
+    <text x="40.4" y="348.5000003814697" font-family="Roboto Mono" font-size="14" fill="#94a3b8" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan></tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="393.5" font-family="Roboto Mono" font-size="14" fill="#030303" letter-spacing="0" font-weight="normal" font-style="normal">Remember Me</text>
+  </g>
+  <g opacity="100%">
+    <rect x="32" y="380" width="16" height="16" fill="#fff" rx="0" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_2_2_000000cc)" x="32.4" y="422.4" width="294.2" height="37.2" fill="#cdd711" stroke="#030303" stroke-width="0.8" rx="0"></rect>
+    <text x="154.4999984741211" y="446.5000003814697" font-family="Roboto Mono" font-size="14" fill="#030303" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan>Log In</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_2_2_000000cc)" x="32.4" y="471.4" width="294.2" height="37.2" fill="#fff" stroke="#030303" stroke-width="0.8" rx="0"></rect>
+    <text x="145.9999984741211" y="495.5000003814697" font-family="Roboto Mono" font-size="14" fill="#030303" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan>Register</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <rect x="0" y="620" width="359" height="48" fill="#fff" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+    <rect x="0" y="620" width="359" height="0" fill="#e5e7eb"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" width="10" height="10" fill="#030303" x="142" y="639" opacity="100%">
+    <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
+  </svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16" height="16" fill="#030303" x="168" y="636" opacity="100%">
+    <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+  </svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" width="16" height="16" fill="#030303" x="200" y="636" opacity="100%">
+    <path d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"></path>
+  </svg>
+  <defs>
+    <filter id="filter_dshadow_0_0_0_00000014" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_00000014"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_00000014" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_2_2_000000cc" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="2" dy="2"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.8 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_2_2_000000cc"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_2_2_000000cc" result="shape"></feBlend>
+    </filter>
+    <style id="google">@import url(https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&amp;display=swap);
+</style>
+    <style id="brand"></style>
+  </defs>
+</svg>
